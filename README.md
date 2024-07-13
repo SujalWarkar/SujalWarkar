@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sujal Warkar, an
+- 👋 Hi, I’m Sujal Warkar,
 - 👀 I’m interested in Data Analysis, Machine Learning, and Python Programming.
 - 🌱 I’m currently an undergraduate engineering student of Computer Science & Engineering learning Advanced Data Analysis Techniques and Data Visualization using Python Libraries like Pandas, Matplotlib, and Seaborn.
 - 💞️ I’m looking to collaborate on Data Science Projects, especially those involving Predictive Analytics and Data-driven Decision-making.
